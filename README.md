@@ -31,7 +31,7 @@ A Simple application that takes a UTF-8 plain-text file as input and outputs:
 
 ### Built With
 
-* [Python]()
+* Python
 
 
 
